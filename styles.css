@@ -135,3 +135,22 @@ html, body {
     /* background-color: var(--red); */
   }
 }
+
+@media screen and (max-width: 900px) {
+  .qrcode {
+    width: 90%;
+  }
+
+  .qrcode > img {
+    width: 100%;
+    height: unset;
+  }
+
+  .text-code > input {
+    font-size: 1rem;
+  }
+
+  .refresh {
+    width: 100%;
+  }
+}
