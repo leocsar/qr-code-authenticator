@@ -1,6 +1,6 @@
-# Custom Context Menu
+# QR Code Authenticator
 ## :speech_balloon: Sobre
-Gerador de QrCodes para autenticação.
+Gerador de QR Codes para autenticação.
 
 Desenvolvido em **HTML**, **CSS** e **JS** puro.
 
